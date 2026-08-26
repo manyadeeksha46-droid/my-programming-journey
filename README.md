@@ -1,10 +1,18 @@
-# My Programming Journey
+# My Programming Journey 👩‍💻
 
-I'm a first-year B.Tech ECE student learning programming and GitHub.
+Hi! I'm Manya Deeksha Manoj, a first-year B.Tech ECE student.
 
-### Currently learning
+I'm currently learning programming, Git and GitHub, and exploring how technology and electronics work together.
+
+## What I'm learning
+
 - C
 - Python
 - Git & GitHub
+- Basics of Electronics
 
-This repository contains the programs and projects I build while learning.
+## What I'll build
+
+I'll be adding the programs, experiments and small projects I create while learning.
+
+This repository is a record of my progress from beginner to building real projects. 🚀
